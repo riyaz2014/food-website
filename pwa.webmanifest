@@ -15,7 +15,7 @@
         }
     ],
     "id":"https://riyaz2014.github.io/foodwebsite/",
-    "start_url": "/index.html",
+    "start_url": "https://riyaz2014.github.io/foodwebsite/",
     "display": "fullscreen",
     "theme_color": "#00FF00",
     "background_color": "#FFFFFF",
