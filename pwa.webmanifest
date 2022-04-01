@@ -1,0 +1,26 @@
+{
+    "name": "Green Desire",
+    "short_name": "Green Desire",
+    "description": "Progressive Web App feature added in our application",
+    "icons": [
+        {
+            "src":"./images/about-img-1.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/about-icon-4.png",
+            "sizes":"96x96",
+            "type":"image/png"
+        }
+    ],
+    "id":"/index.html",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#00FF00",
+    "background_color": "#FFFFFF",
+    "orientation":"portrait"
+  }
+
+
+
