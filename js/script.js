@@ -7,6 +7,9 @@ if("serviceWorker" in navigator){
       console.log("sw registered")
    })
 }
+Notification.requestPermission(function(status) {
+console.log('Notification permission status:', status);
+});
 menuBtn.onclick = () =>{
    menuBtn.classList.toggle('fa-times');
    navbar.classList.toggle('active');
