@@ -7,11 +7,13 @@
             "src":"./images/about-img-1.png",
             "sizes":"512x512",
             "type":"image/png"
+            "purpose":"any maskable"
         },
         {
             "src":"./images/about-icon-4.png",
             "sizes":"96x96",
             "type":"image/png"
+            "purpose":"any maskable"
         }
     ],
     "id":"https://riyaz2014.github.io/foodwebsite/",
